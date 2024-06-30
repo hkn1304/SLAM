@@ -1,11 +1,17 @@
 # SLAM
-Probabilistic Methods in Robotics
-Implementation of:
--Kalman Filter
--Extended Kalman Filter
--Unscented Kalman Filter
--Odometry model
--Dead-reckoning model
+Probabilistic Methods in Robotics- Phd Course in ITU
 
-FastSLAM (Term project) 
+Implementation of:
+
+- Kalman Filter
+
+- Extended Kalman Filter
+
+- Unscented Kalman Filter
+
+- Odometry model
+
+- Dead-reckoning model
+
+- FastSLAM (Term project) 
 
